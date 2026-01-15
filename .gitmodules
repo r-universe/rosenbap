@@ -1,5 +1,70 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "DOS"]
+	path = DOS
+	url = https://github.com/cran/DOS
+[submodule "DOS2"]
+	path = DOS2
+	url = https://github.com/cran/DOS2
+[submodule "aamatch"]
+	path = aamatch
+	url = https://github.com/cran/aamatch
+[submodule "alcoholSurv"]
+	path = alcoholSurv
+	url = https://github.com/cran/alcoholSurv
+[submodule "dstat"]
+	path = dstat
+	url = https://github.com/cran/dstat
+[submodule "dstat2x2xk"]
+	path = dstat2x2xk
+	url = https://github.com/cran/dstat2x2xk
+[submodule "evident"]
+	path = evident
+	url = https://github.com/cran/evident
+[submodule "exteriorMatch"]
+	path = exteriorMatch
+	url = https://github.com/cran/exteriorMatch
+[submodule "fugue"]
+	path = fugue
+	url = https://github.com/cran/fugue
+[submodule "iTOS"]
+	path = iTOS
+	url = https://github.com/cran/iTOS
+[submodule "informedSen"]
+	path = informedSen
+	url = https://github.com/cran/informedSen
+[submodule "sensitivity2x2xk"]
+	path = sensitivity2x2xk
+	url = https://github.com/cran/sensitivity2x2xk
+[submodule "sensitivityfull"]
+	path = sensitivityfull
+	url = https://github.com/cran/sensitivityfull
+[submodule "sensitivitymult"]
+	path = sensitivitymult
+	url = https://github.com/cran/sensitivitymult
+[submodule "sensitivitymv"]
+	path = sensitivitymv
+	url = https://github.com/cran/sensitivitymv
+[submodule "sensitivitymw"]
+	path = sensitivitymw
+	url = https://github.com/cran/sensitivitymw
+[submodule "senstrat"]
+	path = senstrat
+	url = https://github.com/cran/senstrat
+[submodule "submax"]
+	path = submax
+	url = https://github.com/cran/submax
+[submodule "tailTransform"]
+	path = tailTransform
+	url = https://github.com/cran/tailTransform
+[submodule "testtwice"]
+	path = testtwice
+	url = https://github.com/cran/testtwice
+[submodule "tightenBlock"]
+	path = tightenBlock
+	url = https://github.com/cran/tightenBlock
+[submodule "weightedRank"]
+	path = weightedRank
+	url = https://github.com/cran/weightedRank
