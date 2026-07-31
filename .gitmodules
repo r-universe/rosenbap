@@ -32,9 +32,6 @@
 [submodule "iTOS"]
 	path = iTOS
 	url = https://github.com/cran/iTOS
-[submodule "informedSen"]
-	path = informedSen
-	url = https://github.com/cran/informedSen
 [submodule "sensitivity2x2xk"]
 	path = sensitivity2x2xk
 	url = https://github.com/cran/sensitivity2x2xk
